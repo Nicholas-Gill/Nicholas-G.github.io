@@ -1,11 +1,11 @@
 body {
-  background-color: rgb(223, 106, 106);
+  background-color: rgb(197, 122, 122);
   color: rgb(180, 145, 209);
   font-family: Helvetica;
   font-size: 16px;
   }
   .reverse {
-  background-color: black !important;
+  background-color: rgb(117, 116, 196) !important;
   color: white;
   }
   p {
